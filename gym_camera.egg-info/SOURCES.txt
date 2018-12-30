@@ -1,0 +1,5 @@
+gym_camera.egg-info/PKG-INFO
+gym_camera.egg-info/SOURCES.txt
+gym_camera.egg-info/dependency_links.txt
+gym_camera.egg-info/requires.txt
+gym_camera.egg-info/top_level.txt
