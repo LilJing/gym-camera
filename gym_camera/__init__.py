@@ -14,9 +14,3 @@ register(
     entry_point='gym_camera:Multi_Camera_Env_v1',
     max_episode_steps=500,
 )
-
-register(
-    id='OneCamEnv-v1',
-    entry_point='gym_camera:One_Camera_Env_v1',
-    max_episode_steps=500,
-)
